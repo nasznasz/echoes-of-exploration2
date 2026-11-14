@@ -45,3 +45,7 @@ See `docs/NASA_DATA.md` (APIs, keys, sources) and `docs/IMAGE_CHECKLIST.md` (whi
 
 ## Mission list
 The 17 missions come from the NASA Space Apps challenge resource list (NSSDCA and science.nasa.gov): Moon (Apollo 11 Eagle, Lunar Roving Vehicles, ALSEP, Surveyor 3), Mars (Sojourner, Spirit, Opportunity, Viking 1, Viking 2, Phoenix, InSight, Ingenuity) and deep space (Dawn, NEAR Shoemaker, Pioneer 10, Pioneer 11, Kepler). Each mission credits its NASA page under every answer.
+
+
+## About
+**Echoes of Exploration** is an interactive educational web app built for the NASA Space Apps Challenge 2026. Designed for young learners (ages 6–12), it turns historic space missions into first-person conversations—allowing kids to spin 3D globes of the Moon and Mars, explore landing sites, and chat directly with 17 retired NASA spacecraft using fact-grounded AI with verified source citations.
