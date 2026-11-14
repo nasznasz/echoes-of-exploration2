@@ -6,9 +6,9 @@ NASA Space Apps Challenge 2026. Kids explore the Moon and Mars, click any spot o
 ## How it works
 ```mermaid
 flowchart LR
-  D[Challenge dataset] -->|config.js adapt| W[Website: map, 3D planet, mission pages]
-  W -->|question + that mission's facts| S[FastAPI /chat]
-  S --> L[LangChain + free LLM (Groq / Gemini)]
+  D["Challenge dataset"] -->|config.js adapt| W["Website: map, 3D planet, mission pages"]
+  W -->|question + that mission's facts| S["FastAPI /chat"]
+  S --> L["LangChain + free LLM (Groq / Gemini)"]
   L -->|reply + fact used| S --> W
   W -->|shows reply + source| K((Child))
 ```
