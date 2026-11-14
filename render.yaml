@@ -12,6 +12,7 @@ services:
         value: 3.12.3
       - key: LLM_PROVIDER
         value: gemini
+      - key: LLM_MODEL
         value: gemini-3.5-flash-lite
       - key: STRICT_FACTS
         value: "1"
